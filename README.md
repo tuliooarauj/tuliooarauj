@@ -1,7 +1,6 @@
 ### Hi there 👋
- I’m currently learning Python, JavaScript, MySQL, Swift.
- ###
- How to reach me: toa@cin.ufpe.br
+ 📚 I’m currently learning Python, JavaScript, MySQL, Swift.
+ ### 📫 How to reach me: toa@cin.ufpe.br
 
 <!--
 **tuliooarauj/tuliooarauj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
